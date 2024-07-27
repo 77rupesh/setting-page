@@ -1,0 +1,224 @@
+*{
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+}
+html,body{
+
+width: 100%;
+height: 100%;
+overflow: hidden;
+}
+body{
+position: fixed;
+
+
+}
+.container{
+
+width: 90%;
+height: 90%;
+background-color: #286FB4;
+margin-left:60px ;
+border-radius:30px;
+margin-top: 20px;
+
+}
+.container .seting{
+height: 87%;
+width: 95%;
+margin-left: 30px;
+margin-top: 50px;
+border-radius: 10px;
+position: relative;
+top: 50px;
+}
+.seting .left{
+width: 25%;
+height: 100%;
+background-color:#FFFFFF;
+display: inline-block;
+position: absolute;
+top: 0;
+box-shadow: 3px 3px 8px;
+border-bottom-left-radius: 10px;
+border-top-left-radius: 10px;
+}
+.middle{
+width: 37.5%;
+height: 100%;
+background-color: #E2F0F9;
+display: inline-block;
+margin-left: -4px;
+position: absolute;
+top: 0;
+left: 25%;
+
+
+}
+.right{
+display: inline-block;
+width: 37.5%;
+height: 100%;
+background-color:  #E2F0F9;
+margin-left: -4px;
+text-align: center;
+position: absolute;
+top: 0;
+left: 62.5%;
+border-top-right-radius: 10px;
+border-bottom-right-radius: 10px;
+}
+.image{
+width: 32%;
+height: 20%;
+background-image: url(https://images.unsplash.com/photo-1551860863-d98db3dbbee3?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D);
+background-size: cover;
+background-position: center;
+background-repeat: no-repeat;
+border-radius: 50%;
+margin-left: 35%;
+margin-top: 10%;
+border: 5px solid rgba(44, 42, 42, 0.779);
+
+
+
+
+
+}
+h3{
+margin-left: 80px;
+margin-top: 10px;
+color: #194F92;
+
+}
+h6{
+margin-left: 62px;
+padding:7px 5px;
+border: none;
+border-radius: 10px;
+background-color:transparent;
+font-size: 15px;
+color: #194F92;
+
+
+}
+.border{
+height: 10%;
+border-bottom: 1px  dashed  #010000;
+margin: 10px;
+}
+a{
+
+color:BLACK;
+text-decoration: none;
+margin-top: 20px;
+
+}
+.link{
+    text-align: center;
+    margin-top: 20px;
+}
+
+   .accont{
+margin-left:-60px;
+color: #194F92;
+font-weight: 900;
+font-size: 16px;
+   }
+.find{
+margin-left: -35px;
+
+}
+.hist{
+margin-left: -65px;
+
+
+}
+.chat{
+margin-left: -75px;
+
+}
+
+
+
+.log{
+background-color: transparent;
+height: 30px;
+width: 100%;
+margin-top: 30px;
+color: white ;
+
+}
+.log button{
+    color: white;
+    width: 80%;
+    height: 90%;
+    margin-left: 25px;
+    background-color: rgb(78, 78, 245);
+border: none;
+font-size: 15px;
+}
+.middle h3{
+margin-left:20px ;
+margin-top: 20px;
+
+
+}
+.middle h4{
+
+margin-left: 3px;
+width: 90%;
+height: 7%;
+padding-top: 5px;
+padding-left: 18px;
+border-radius: 5px;
+background-color: white;
+
+
+}
+.right h3{
+margin-left: -250px;
+margin-top: 20px;
+
+
+}
+.right p{
+padding-top: 10px;
+
+
+
+
+}
+.middle .blok{
+
+    color: #194F92;
+}
+.right .add{
+
+width: 10%;
+height: 8%;
+background-color: blue;
+color: white;
+font-size: 30px;
+margin-top: 30px;
+margin-left: -120px;
+display: inline-block;
+
+
+
+}
+.right span{
+margin-left: 10PX;
+
+}
+
+
+
+
+
+
+
+
+
+
